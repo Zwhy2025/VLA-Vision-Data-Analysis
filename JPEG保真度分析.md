@@ -36,7 +36,7 @@
   - Q90 虽然体积更小，但 SSIM 开始下降。考虑到存储成本在 Q95 下已大幅缓解（67KB/帧），为了给模型训练留足余量，我们选择更保守的 **Q95**。
 
 ## 4. 验证工具
-本报告数据使用 `tools/validation_script.py` 生成。
+本报告数据使用 [`tools/validation_script.py`](https://github.com/Zwhy2025/VLA-Vision-Data-Analysis/blob/master/tools/validation_script.py) 生成。
 
 ### 运行方式
 ```bash

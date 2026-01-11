@@ -54,8 +54,8 @@ ColorJitter / Blur / RandomResizedCrop 等增强会显著改变纹理与颜色�
 
 ### 3.3 定量结果
 
--   单帧质量：详见 [`JPEG保真度分析.md`](JPEG保真度分析.md)
--   系统性能：详见 [`图像压缩性能分析.md`](图像压缩性能分析.md)
+-   单帧质量：详见 [`JPEG保真度分析.md`](https://github.com/Zwhy2025/VLA-Vision-Data-Analysis/blob/master/JPEG保真度分析.md)
+-   系统性能：详见 [`图像压缩性能分析.md`](https://github.com/Zwhy2025/VLA-Vision-Data-Analysis/blob/master/图像压缩性能分析.md)
 
 ---
 
