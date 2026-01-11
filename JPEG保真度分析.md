@@ -16,7 +16,7 @@
 
 ## 3. 实验结果 (基于典型 Robot Arm 图像)
 
-**输入图片**: `right_arm.png` (640x480, Raw RGB)
+**输入图片**: `test_image.png` (640x480, Raw RGB)
 
 | 模式 | 文件大小 (KiB) | 压缩比 | MSE | PSNR (dB) | SSIM | 结论 |
 |---|---:|---:|---:|---:|---:|---|
